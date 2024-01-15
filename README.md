@@ -6,3 +6,5 @@ After many hours of design i found two patterns that looked the way i was hoping
 The patterns have been made that they are one line width so giving a delicate look.
 
 I hope you enjoy these new designs.
+
+![Screenshot (125)](https://github.com/Driftrotor/Voron_V0.2r1_Kumiko_Skirts/assets/94327757/29d57ea8-a9ea-4495-a8db-413f4c9da28f)
